@@ -24,7 +24,7 @@ List of compatible async-await compatible crates for the Rust programming langua
 ### Postgres
 - [tokio-postgres](https://docs.rs/tokio-postgres/latest) on the `std-future` branch
 
-## Runtimes, sockets, etc.
+## Runtimes, sockets, filesystem, timers, etc.
 
 - [tokio](https://docs.rs/tokio/latest)
 - [async-std](https://docs.rs/async-std/latest)
