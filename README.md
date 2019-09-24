@@ -24,7 +24,7 @@
 ## Databases
 
 ### Redis
-- [darkredis](https://docs.rs/darkredis/latest) - "Asyncronous redis client built using futures and async await, with optional connection pooling."
+- [darkredis](https://docs.rs/darkredis/latest) - "Asynchronous redis client built using futures and async await, with optional connection pooling."
 
 ### MySQL
 - [mysql_async](https://docs.rs/mysql_async/latest) - "Tokio based asynchronous MySql client library for rust programming language."
