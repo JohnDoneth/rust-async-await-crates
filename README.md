@@ -45,6 +45,7 @@ List of async-await compatible crates for the [Rust programming language](https:
 - [async_trait](https://docs.rs/async-trait/latest) - "Type erasure for async trait methods"
 - [futures-async-stream-macro](https://docs.rs/futures-async-stream-macro/latest) - "Procedural macro for the #[async_stream] attribute."
 - [stream-cancel](https://docs.rs/stream-cancel/latest) - "This crate provides multiple mechanisms for interrupting a Stream."
+- [futures-timer](https://docs.rs/futures-timer/latest/) - "A library for working with timers, timeouts, and intervals with the futures crate."
 
 ## Futures/Streams/Sinks extension traits and more!
 
