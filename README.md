@@ -40,14 +40,16 @@
 - [tokio](https://docs.rs/tokio/latest) - "A runtime for writing reliable, asynchronous, and slim applications."
 - [async-std](https://docs.rs/async-std/latest) - "Async version of the Rust standard library."
 
-## TLS
+## TLS/Security
 
-- [tokio_rustls](https://docs.rs/tokio_rustls/latest) - "Asynchronous TLS/SSL streams for Tokio using Rustls."
+- [tokio-tls](https://docs.rs/tokio-tls/latest) - "Async TLS streams"
+- [tokio-rustls](https://docs.rs/tokio_rustls/latest) - "Asynchronous TLS/SSL streams for Tokio using Rustls."
+- [tokio-openssl](https://docs.rs/tokio-openssl/latest) - "An implementation of SSL streams for Tokio built on top of the openssl crate"
 
 ## Utility
 
 - [async_trait](https://docs.rs/async-trait/latest) - "Type erasure for async trait methods"
-- [futures-async-stream-macro](https://docs.rs/futures-async-stream-macro/latest) - "Procedural macro for the #[async_stream] attribute."
+- [async-stream]("https://docs.rs/async-stream/latest) - "Provides two macros, stream! and try_stream!, allowing the caller to define asynchronous streams of elements"
 - [stream-cancel](https://docs.rs/stream-cancel/latest) - "This crate provides multiple mechanisms for interrupting a Stream."
 - [futures-timer](https://docs.rs/futures-timer/latest/) - "A library for working with timers, timeouts, and intervals with the futures crate."
 
