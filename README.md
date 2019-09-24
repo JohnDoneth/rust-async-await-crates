@@ -39,7 +39,7 @@ List of compatible async-await compatible crates for the [Rust programming langu
 - [futures-async-stream-macro](https://docs.rs/futures-async-stream-macro/latest)
 - [stream_cancel](https://docs.rs/stream_cancel/latest)
 
-## Futures/Streams/Sinks Extension Traits and more!
+## Futures/Streams/Sinks extension traits and more!
 
 - [futures](https://rust-lang-nursery.github.io/futures-api-docs/0.3.0-alpha.18/futures/)
 
