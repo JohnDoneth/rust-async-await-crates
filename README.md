@@ -70,3 +70,7 @@
 ### NATS
 
 - [rants](https://docs.rs/crate/rants/latest) - "An async NATS client library for the Rust programming language."
+
+## WebAssembly
+
+- [wasm-bindgen-futures](https://rustwasm.github.io/wasm-bindgen/api/wasm_bindgen_futures/) on the `master` branch - "This crate bridges the gap between a Rust Future and a JavaScript Promise."
