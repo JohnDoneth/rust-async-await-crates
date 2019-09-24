@@ -48,7 +48,7 @@ List of async-await compatible crates for the [Rust programming language](https:
 
 ## Futures/Streams/Sinks extension traits and more!
 
-- [futures](https://rust-lang-nursery.github.io/futures-api-docs/0.3.0-alpha.18/futures/)
+- [futures](https://rust-lang-nursery.github.io/futures-api-docs/0.3.0-alpha.18/futures/) - "Abstractions for asynchronous programming."
 
 ## Compression
 
