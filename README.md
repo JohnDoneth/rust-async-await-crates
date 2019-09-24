@@ -1,4 +1,4 @@
-# Async-Await Crates
+# Async.await! Crates
 
 List of compatible async-await compatible crates for the Rust programming language.
 
