@@ -13,7 +13,7 @@
 - [reqwest](https://docs.rs/reqwest/latest) on the `master` branch - "The reqwest crate provides a convenient, higher-level HTTP Client."
 - [surf](https://docs.rs/surf/latest) - "Surf is a friendly HTTP client built for casual Rustaceans and veterans alike."
 
-### Web Frameworks
+### HTTP Servers
 - [rocket](https://docs.rs/rocket/latest/) on the `async` branch - "Rocket is a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety."
 - [tide](https://docs.rs/tide/latest/) - "Empowering everyone to build HTTP Services."
 
