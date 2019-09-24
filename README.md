@@ -13,6 +13,10 @@ List of async-await compatible crates for the [Rust programming language](https:
 - [rocket](https://docs.rs/rocket/latest/) on the `async` branch
 - [tide](https://docs.rs/tide/latest/)
 
+## Tracing
+
+- [tracing](https://docs.rs/tracing/latest/)
+
 ## Databases
 
 ### Redis
