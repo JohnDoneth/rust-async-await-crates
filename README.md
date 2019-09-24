@@ -1,6 +1,10 @@
-# Async.await! Crates
 
-List of async-await compatible crates for the [Rust programming language](https://www.rust-lang.org/).
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/rust-lang/crates.io/master/public/cargo.png"/>
+</p>
+<h1 align="center">Async.await! Crates</h1>
+<p align="center">List of async-await compatible crates for the <a href="https://www.rust-lang.org/">Rust programming language</a>.</p>
+
 
 ### HTTP
 - [hyper](https://docs.rs/hyper/latest) - "hyper is a fast and correct HTTP implementation written in and for Rust."
