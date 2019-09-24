@@ -40,7 +40,7 @@
 - [tokio](https://docs.rs/tokio/latest) - "A runtime for writing reliable, asynchronous, and slim applications."
 - [async-std](https://docs.rs/async-std/latest) - "Async version of the Rust standard library."
 
-## TLS/Security
+## TLS
 
 - [tokio-tls](https://docs.rs/tokio-tls/latest) - "Async TLS streams"
 - [tokio-rustls](https://docs.rs/tokio_rustls/latest) - "Asynchronous TLS/SSL streams for Tokio using Rustls."
