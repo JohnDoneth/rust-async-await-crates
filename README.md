@@ -29,7 +29,7 @@ List of async-await compatible crates for the [Rust programming language](https:
 - [tokio-postgres](https://docs.rs/tokio-postgres/latest) on the `std-future` branch - "An asynchronous Postgres driver using Tokio."
 
 ### MemDB
-- [memdb](https://docs.rs/memdb/latest) - Non persisted in-memory key-value store
+- [memdb](https://docs.rs/memdb/latest) - "Thread-safe in-memory key-value store. Ideal for development and prototyping. Does not persist to disk."
 
 ## Runtimes, sockets, filesystem, timers, etc.
 
