@@ -1,6 +1,6 @@
 # Async.await! Crates
 
-List of compatible async-await compatible crates for the [Rust programming language](https://www.rust-lang.org/).
+List of async-await compatible crates for the [Rust programming language](https://www.rust-lang.org/).
 
 ### HTTP
 - [hyper](https://docs.rs/hyper/latest)
