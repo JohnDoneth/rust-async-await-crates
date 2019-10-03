@@ -17,6 +17,10 @@
 - [rocket](https://docs.rs/rocket/latest/) on the `async` branch - "Rocket is a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety."
 - [tide](https://docs.rs/tide/latest/) - "Empowering everyone to build HTTP Services."
 
+## gRPC
+
+- [tonic](https://docs.rs/tonic/) - "A rust implementation of gRPC, a high performance, open source, general RPC framework that puts mobile and HTTP/2 first."
+
 ## Tracing
 
 - [tracing](https://docs.rs/tracing/latest/) - "A scoped, structured logging and diagnostics system."
