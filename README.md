@@ -78,3 +78,9 @@
 ## WebAssembly
 
 - [wasm-bindgen-futures](https://rustwasm.github.io/wasm-bindgen/api/wasm_bindgen_futures/) on the `master` branch - "This crate bridges the gap between a Rust Future and a JavaScript Promise."
+
+## Services
+
+### Amazon
+
+- [rusoto](https://github.com/rusoto/rusoto) - "Rusoto is an AWS SDK for Rust."
