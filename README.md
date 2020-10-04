@@ -55,6 +55,7 @@
 - [async_trait](https://docs.rs/async-trait/latest) - "Type erasure for async trait methods"
 - [async-stream](https://docs.rs/async-stream/latest) - "Provides two macros, stream! and try_stream!, allowing the caller to define asynchronous streams of elements"
 - [stream-cancel](https://docs.rs/stream-cancel/latest) - "This crate provides multiple mechanisms for interrupting a Stream."
+- [futures-batch](https://github.com/mre/futures-batch) - " An adapter for futures, which chunks up elements and flushes them after a timeout, or when the buffer is full"
 - [futures-timer](https://docs.rs/futures-timer/latest/) - "A library for working with timers, timeouts, and intervals with the futures crate."
 
 ## Futures/Streams/Sinks extension traits and more!
